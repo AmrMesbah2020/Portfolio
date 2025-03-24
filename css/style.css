@@ -1301,4 +1301,18 @@ input[type="text"] {
   color: #FBE4D6;
 }
 
+.download_cv {
+  background-color: #261FB3;
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 5px;
+  display: inline-block;
+  margin-top: 10px;
+  text-decoration: none;
+}
+
+.download_cv:hover {
+  background-color: #161179;
+}
+
 /*# sourceMappingURL=style.css.map */
